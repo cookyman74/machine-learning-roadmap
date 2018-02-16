@@ -4,3 +4,7 @@ Below you will find a chart describes the programming languages, tools, techniqu
 
 #### The roadmap
 ![Alt text](/images/ml-roadmap.png?raw=true "screenshot")
+
+## License
+
+Dissector is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
